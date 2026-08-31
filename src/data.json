@@ -1,0 +1,48 @@
+{
+  "couple": {
+    "initials": "D & D",
+    "name1": "Dyota",
+    "name2": "Dheja"
+  },
+  "wedding": {
+    "dateLabel": "Saturday, August 24, 2026",
+    "venue": "The Glasshouse, Jakarta",
+    "time": "Ceremony begins at 4:00 PM"
+  },
+  "hero": {
+    "photo": "https://images.unsplash.com/photo-1519741497674-611481863552?w=1600&q=80",
+    "heading": "We're Getting Married!",
+    "notFoundMessage": "We couldn't find your invitation. Please check the link you were given, or reach out to the couple directly."
+  },
+  "story": {
+    "eyebrow": "The Beginning",
+    "heading": "Our Love Story",
+    "photo1": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?w=800&q=80",
+    "photo2": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=800&q=80",
+    "paragraphs": [
+      { "text": "What started as a chance meeting on a rainy afternoon turned into years of laughter, quiet Sunday mornings, and countless little adventures. We found in each other a best friend, a partner, and a home." },
+      { "text": "\"Every love story is beautiful, but ours is our favorite.\"", "italic": true },
+      { "text": "Now, surrounded by the people who mean the most to us, we're ready to begin our next chapter together — and we would be overjoyed to have you there with us." }
+    ]
+  },
+  "calendar": {
+    "closing": "Join us for a day full of joy, love, and unforgettable memories."
+  },
+  "gallery": {
+    "photos": [
+      { "src": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=700&q=80", "caption": "Our first trip together" },
+      { "src": "https://images.unsplash.com/photo-1529636444744-8de5bb4b6a92?w=700&q=80", "caption": "The day he asked" },
+      { "src": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=700&q=80", "caption": "Celebrating with family" },
+      { "src": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?w=700&q=80", "caption": "Just us, always" },
+      { "src": "https://images.unsplash.com/photo-1519741497674-611481863552?w=700&q=80", "caption": "Where it all began" }
+    ]
+  },
+  "rsvp": {
+    "eyebrow": "Kindly Reply",
+    "heading": "Please Let Us Know If You'll Be Joining Us",
+    "subtext": "Your presence means the world to us. Please RSVP so we can prepare a seat with your name on it."
+  },
+  "footer": {
+    "text": "Thank you for being part of our journey. We can't wait to celebrate with you!"
+  }
+}
